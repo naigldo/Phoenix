@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_skeleton_hitstun",
-    "path": "sprites/s_skeleton_hitstun/s_skeleton_hitstun.yy",
+    "name": "larve",
+    "path": "sprites/larve/larve.yy",
   },
   "solid": false,
   "visible": true,
