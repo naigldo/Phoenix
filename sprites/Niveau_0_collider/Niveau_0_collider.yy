@@ -25,7 +25,6 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"3e2c8b3b-06af-4d4a-a33e-bce00e73ddf5","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3e2c8b3b-06af-4d4a-a33e-bce00e73ddf5","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"LayerId":{"name":"7a32029a-dc7a-46de-9350-68cd9a8ead42","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"3e2c8b3b-06af-4d4a-a33e-bce00e73ddf5","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"LayerId":{"name":"5ee47f1b-dd30-4dcc-9c29-d8c716c6f840","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Niveau_0_collider","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"resourceVersion":"1.0","name":"3e2c8b3b-06af-4d4a-a33e-bce00e73ddf5","tags":[],"resourceType":"GMSpriteFrame",},
   ],

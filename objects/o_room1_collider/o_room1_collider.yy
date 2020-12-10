@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Niveau_0_collider",
-    "path": "sprites/Niveau_0_collider/Niveau_0_collider.yy",
+    "name": "s_level0_collider",
+    "path": "sprites/s_level0_collider/s_level0_collider.yy",
   },
   "solid": false,
   "visible": false,
