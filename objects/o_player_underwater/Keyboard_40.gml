@@ -17,4 +17,18 @@ if (!(l706E72C4_0 > 0))
 	/// @DnDArgument : "yscale" "0.5"
 	image_xscale = 0.5;
 	image_yscale = 0.5;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Alarm
+	/// @DnDVersion : 1
+	/// @DnDHash : 58E4640A
+	/// @DnDParent : 706E72C4
+	/// @DnDArgument : "steps" "0.2"
+	alarm_set(0, 0.2);
+
+	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
+	/// @DnDVersion : 1
+	/// @DnDHash : 34D34AEF
+	/// @DnDParent : 706E72C4
+	/// @DnDArgument : "angle" "-70"
+	image_angle = -70;
 }
