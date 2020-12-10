@@ -23,7 +23,6 @@
     {"id":{"name":"mushroom","path":"sprites/mushroom/mushroom.yy",},"order":7,},
     {"id":{"name":"level_0","path":"sprites/level_0/level_0.yy",},"order":4,},
     {"id":{"name":"s_mushrooms_strip3","path":"sprites/s_mushrooms_strip3/s_mushrooms_strip3.yy",},"order":4,},
-    {"id":{"name":"s_level0_collider","path":"sprites/s_level0_collider/s_level0_collider.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
