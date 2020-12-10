@@ -18,13 +18,6 @@ if (!(l13F33CCF_0 > 0))
 	image_xscale = 0.5;
 	image_yscale = 0.5;
 
-	/// @DnDAction : YoYo Games.Instances.Set_Alarm
-	/// @DnDVersion : 1
-	/// @DnDHash : 5E079D32
-	/// @DnDParent : 13F33CCF
-	/// @DnDArgument : "steps" "0.2"
-	alarm_set(0, 0.2);
-
 	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 	/// @DnDVersion : 1
 	/// @DnDHash : 40C89887
