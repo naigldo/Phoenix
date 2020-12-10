@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8b533ccf-48c9-4694-b79a-c4be142d6880","path":"sprites/Niveau_0/Niveau_0.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8b533ccf-48c9-4694-b79a-c4be142d6880","path":"sprites/Niveau_0/Niveau_0.yy",},"LayerId":{"name":"04b33870-026b-456f-899a-7219147aea7d","path":"sprites/Niveau_0/Niveau_0.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Niveau_0","path":"sprites/Niveau_0/Niveau_0.yy",},"resourceVersion":"1.0","name":"8b533ccf-48c9-4694-b79a-c4be142d6880","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3e2c8b3b-06af-4d4a-a33e-bce00e73ddf5","path":"sprites/Niveau_0___eau_douce_illu/Niveau_0___eau_douce_illu.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3e2c8b3b-06af-4d4a-a33e-bce00e73ddf5","path":"sprites/Niveau_0___eau_douce_illu/Niveau_0___eau_douce_illu.yy",},"LayerId":{"name":"4e6445c2-af31-4eec-8568-d96089c354d5","path":"sprites/Niveau_0___eau_douce_illu/Niveau_0___eau_douce_illu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Niveau_0___eau_douce_illu","path":"sprites/Niveau_0___eau_douce_illu/Niveau_0___eau_douce_illu.yy",},"resourceVersion":"1.0","name":"3e2c8b3b-06af-4d4a-a33e-bce00e73ddf5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Niveau_0","path":"sprites/Niveau_0/Niveau_0.yy",},
+    "spriteId": {"name":"Niveau_0___eau_douce_illu","path":"sprites/Niveau_0___eau_douce_illu/Niveau_0___eau_douce_illu.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bcac6900-45d3-4b02-93f5-3e725897ddfd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8b533ccf-48c9-4694-b79a-c4be142d6880","path":"sprites/Niveau_0/Niveau_0.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7e41edfe-822b-4db0-ab33-6bffad33110c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3e2c8b3b-06af-4d4a-a33e-bce00e73ddf5","path":"sprites/Niveau_0___eau_douce_illu/Niveau_0___eau_douce_illu.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Niveau_0","path":"sprites/Niveau_0/Niveau_0.yy",},
+    "parent": {"name":"Niveau_0___eau_douce_illu","path":"sprites/Niveau_0___eau_douce_illu/Niveau_0___eau_douce_illu.yy",},
     "resourceVersion": "1.3",
-    "name": "Niveau_0",
+    "name": "Niveau_0___eau_douce_illu",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"04b33870-026b-456f-899a-7219147aea7d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4e6445c2-af31-4eec-8568-d96089c354d5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "levels",
     "path": "folders/Sprites/levels.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Niveau_0",
+  "name": "Niveau_0___eau_douce_illu",
   "tags": [],
   "resourceType": "GMSprite",
 }
