@@ -17,4 +17,10 @@ if (!(l4A6D70EE_0 > 0))
 	/// @DnDArgument : "yscale" "0.5"
 	image_xscale = -0.5;
 	image_yscale = 0.5;
+
+	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
+	/// @DnDVersion : 1
+	/// @DnDHash : 74575697
+	/// @DnDParent : 4A6D70EE
+	image_angle = 0;
 }
