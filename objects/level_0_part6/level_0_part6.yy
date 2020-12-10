@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Niveau_0___6",
-    "path": "sprites/Niveau_0___6/Niveau_0___6.yy",
+    "name": "level_0_06",
+    "path": "sprites/level_0_06/level_0_06.yy",
   },
   "solid": false,
   "visible": true,
