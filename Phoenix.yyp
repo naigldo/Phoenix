@@ -1,12 +1,14 @@
 {
   "resources": [
     {"id":{"name":"s_skeleton_hitstun","path":"sprites/s_skeleton_hitstun/s_skeleton_hitstun.yy",},"order":3,},
+    {"id":{"name":"Plant_1","path":"sprites/Plant_1/Plant_1.yy",},"order":9,},
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},"order":1,},
     {"id":{"name":"o_champi","path":"objects/o_champi/o_champi.yy",},"order":6,},
     {"id":{"name":"s_grass","path":"sprites/s_grass/s_grass.yy",},"order":1,},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":6,},
     {"id":{"name":"Niveau_0","path":"sprites/Niveau_0/Niveau_0.yy",},"order":0,},
     {"id":{"name":"s_champi","path":"sprites/s_champi/s_champi.yy",},"order":5,},
+    {"id":{"name":"o_plant_1","path":"objects/o_plant_1/o_plant_1.yy",},"order":8,},
     {"id":{"name":"o_ground_underwater","path":"objects/o_ground_underwater/o_ground_underwater.yy",},"order":5,},
     {"id":{"name":"Niveau_0_collider","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"order":8,},
     {"id":{"name":"s_skeleton_attack_two","path":"sprites/s_skeleton_attack_two/s_skeleton_attack_two.yy",},"order":2,},
