@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "plant_2",
-    "path": "sprites/plant_2/plant_2.yy",
+    "name": "plant_1",
+    "path": "sprites/plant_1/plant_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/plants.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_plant_2",
+  "name": "o_plant_1_vert",
   "tags": [],
   "resourceType": "GMObject",
 }
