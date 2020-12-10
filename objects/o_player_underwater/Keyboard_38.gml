@@ -3,10 +3,10 @@
 /// @DnDHash : 13F33CCF
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "object" "o_ground"
+/// @DnDArgument : "object" "o_ground_underwater"
 /// @DnDArgument : "not" "1"
-/// @DnDSaveInfo : "object" "o_ground"
-var l13F33CCF_0 = instance_place(x + 0, y + 0, o_ground);
+/// @DnDSaveInfo : "object" "o_ground_underwater"
+var l13F33CCF_0 = instance_place(x + 0, y + 0, o_ground_underwater);
 if (!(l13F33CCF_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Instances.Sprite_Scale
