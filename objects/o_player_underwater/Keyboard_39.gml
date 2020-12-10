@@ -5,6 +5,7 @@
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "o_room1_collider"
 /// @DnDArgument : "not" "1"
+/// @DnDSaveInfo : "object" "o_room1_collider"
 var l2EBEB4AF_0 = instance_place(x + 0, y + 0, o_room1_collider);
 if (!(l2EBEB4AF_0 > 0))
 {
@@ -12,6 +13,8 @@ if (!(l2EBEB4AF_0 > 0))
 	/// @DnDVersion : 1
 	/// @DnDHash : 66D18636
 	/// @DnDParent : 2EBEB4AF
-	image_xscale = 1;
-	image_yscale = 1;
+	/// @DnDArgument : "xscale" "0.5"
+	/// @DnDArgument : "yscale" "0.5"
+	image_xscale = 0.5;
+	image_yscale = 0.5;
 }

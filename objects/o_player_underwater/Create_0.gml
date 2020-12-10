@@ -12,3 +12,11 @@ hsp = 0;
 vsp = 0;
 grv = 0.3;
 runsp = 4;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Scale
+/// @DnDVersion : 1
+/// @DnDHash : 68541375
+/// @DnDArgument : "xscale" "0.5"
+/// @DnDArgument : "yscale" "0.5"
+image_xscale = 0.5;
+image_yscale = 0.5;

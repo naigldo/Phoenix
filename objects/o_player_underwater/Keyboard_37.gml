@@ -13,7 +13,8 @@ if (!(l4A6D70EE_0 > 0))
 	/// @DnDVersion : 1
 	/// @DnDHash : 4A4606C4
 	/// @DnDParent : 4A6D70EE
-	/// @DnDArgument : "xscale" "-1"
-	image_xscale = -1;
-	image_yscale = 1;
+	/// @DnDArgument : "xscale" "-0.5"
+	/// @DnDArgument : "yscale" "0.5"
+	image_xscale = -0.5;
+	image_yscale = 0.5;
 }
