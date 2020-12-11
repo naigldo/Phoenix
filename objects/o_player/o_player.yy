@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "s_skeleton_idle",
-    "path": "sprites/s_skeleton_idle/s_skeleton_idle.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

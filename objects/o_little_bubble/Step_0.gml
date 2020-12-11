@@ -47,9 +47,10 @@ if(l480C5A9F_0)
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 51E0EDB1
-/// @DnDArgument : "code" "/// @description vertical collision$(13_10)$(13_10)if place_meeting(x,y+spd, o_room1_collider) {$(13_10)	instance_destroy();$(13_10)}$(13_10)"
+/// @DnDArgument : "code" "/// @description vertical collision$(13_10)$(13_10)if place_meeting(x,y+spd, o_room1_collider) {$(13_10)	audio_play_sound(s_explosion_of_little_bubble,10,false);$(13_10)	instance_destroy();$(13_10)}$(13_10)"
 /// @description vertical collision
 
 if place_meeting(x,y+spd, o_room1_collider) {
+	audio_play_sound(s_explosion_of_little_bubble,10,false);
 	instance_destroy();
 }
