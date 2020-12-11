@@ -28,3 +28,17 @@ if(l71007448_0)
 /// @DnDHash : 222B25F6
 /// @DnDArgument : "direction" "direction"
 gravity_direction = direction;
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 03458EEC
+/// @DnDArgument : "var" "hp"
+/// @DnDArgument : "op" "3"
+if(hp <= 0)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 4FE460E8
+	/// @DnDParent : 03458EEC
+	instance_destroy();
+}
