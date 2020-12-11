@@ -33,7 +33,6 @@ if (!l3F981E34_0)
 		/// @DnDParent : 371F9BDB
 		/// @DnDArgument : "imageind_relative" "1"
 		/// @DnDArgument : "spriteind" "s_skeleton_idle"
-		/// @DnDSaveInfo : "spriteind" "s_skeleton_idle"
 		sprite_index = s_skeleton_idle;
 		image_index += 0;
 	}
@@ -51,22 +50,22 @@ hsp = move * runsp;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 0895DFA0
-/// @DnDArgument : "code" "///@description Jump$(13_10)$(13_10)vsp = vsp + grv;$(13_10)if place_meeting(x, y+1, o_ground) && key_jump = true {$(13_10)	vsp = -7$(13_10)}"
+/// @DnDArgument : "code" "///@description Jump$(13_10)$(13_10)vsp = vsp + grv;$(13_10)if place_meeting(x, y+1, o_ground_underwater) && key_jump = true {$(13_10)	vsp = -7$(13_10)}"
 ///@description Jump
 
 vsp = vsp + grv;
-if place_meeting(x, y+1, o_ground) && key_jump = true {
+if place_meeting(x, y+1, o_ground_underwater) && key_jump = true {
 	vsp = -7
 }
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 543AFA2D
-/// @DnDArgument : "code" "/// @description horizontal collision$(13_10)$(13_10)if place_meeting(x+hsp, y, o_wall) {$(13_10)	while (!place_meeting(x+sign(hsp),y, o_wall)) {$(13_10)		x = x + sign(hsp);$(13_10)	}$(13_10)	hsp = 0;$(13_10)}$(13_10)$(13_10)x = x + hsp;"
+/// @DnDArgument : "code" "/// @description horizontal collision$(13_10)$(13_10)if place_meeting(x+hsp, y, o_ground_underwater) {$(13_10)	while (!place_meeting(x+sign(hsp),y, o_ground_underwater)) {$(13_10)		x = x + sign(hsp);$(13_10)	}$(13_10)	hsp = 0;$(13_10)}$(13_10)$(13_10)x = x + hsp;"
 /// @description horizontal collision
 
-if place_meeting(x+hsp, y, o_wall) {
-	while (!place_meeting(x+sign(hsp),y, o_wall)) {
+if place_meeting(x+hsp, y, o_ground_underwater) {
+	while (!place_meeting(x+sign(hsp),y, o_ground_underwater)) {
 		x = x + sign(hsp);
 	}
 	hsp = 0;
@@ -77,11 +76,11 @@ x = x + hsp;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 19808A22
-/// @DnDArgument : "code" "/// @description vertical collision$(13_10)$(13_10)if place_meeting(x,y+vsp,o_ground) {$(13_10)	while (!place_meeting(x,y+sign(vsp), o_ground)) {$(13_10)		y = y + sign(vsp);$(13_10)	}$(13_10)	vsp = 0;$(13_10)}$(13_10)$(13_10)y = y + vsp;"
+/// @DnDArgument : "code" "/// @description vertical collision$(13_10)$(13_10)if place_meeting(x,y+vsp,o_ground_underwater) {$(13_10)	while (!place_meeting(x,y+sign(vsp), o_ground_underwater)) {$(13_10)		y = y + sign(vsp);$(13_10)	}$(13_10)	vsp = 0;$(13_10)}$(13_10)$(13_10)y = y + vsp;"
 /// @description vertical collision
 
-if place_meeting(x,y+vsp,o_ground) {
-	while (!place_meeting(x,y+sign(vsp), o_ground)) {
+if place_meeting(x,y+vsp,o_ground_underwater) {
+	while (!place_meeting(x,y+sign(vsp), o_ground_underwater)) {
 		y = y + sign(vsp);
 	}
 	vsp = 0;
