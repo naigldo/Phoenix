@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "environment",
-    "path": "folders/Objects/environment.yy",
+    "name": "bubbles",
+    "path": "folders/Objects/environment/bubbles.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_little_bubble",

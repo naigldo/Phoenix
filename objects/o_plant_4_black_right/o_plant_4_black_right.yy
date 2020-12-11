@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "environment",
-    "path": "folders/Objects/environment.yy",
+    "name": "plants",
+    "path": "folders/Objects/environment/plants.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_plant_4_black_right",
