@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9579adc6-47dc-4013-9f3e-3a9a718f218b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "visu_room",
+    "path": "folders/Sprites/visu_room.yy",
   },
   "resourceVersion": "1.0",
   "name": "title_screen",
