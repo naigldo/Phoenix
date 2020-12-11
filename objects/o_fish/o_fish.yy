@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "school_of_fish",
-    "path": "sprites/school_of_fish/school_of_fish.yy",
+    "name": "s_fish",
+    "path": "sprites/s_fish/s_fish.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_fish","path":"objects/o_fish/o_fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_fish","path":"objects/o_fish/o_fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -28,7 +31,7 @@
     "path": "folders/Objects/enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_school_of_fish",
+  "name": "o_fish",
   "tags": [],
   "resourceType": "GMObject",
 }
