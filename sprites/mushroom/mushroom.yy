@@ -70,8 +70,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"545c3e60-c8d6-44c2-9a0a-8babf7254aaf","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "plants",
-    "path": "folders/Sprites/environment/plants.yy",
+    "name": "environment",
+    "path": "folders/Sprites/environment.yy",
   },
   "resourceVersion": "1.0",
   "name": "mushroom",

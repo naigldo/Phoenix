@@ -88,8 +88,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4343e88a-d786-4c45-9e9f-c0109fcdb495","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "plants",
-    "path": "folders/Sprites/environment/plants.yy",
+    "name": "environment",
+    "path": "folders/Sprites/environment.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_champi",

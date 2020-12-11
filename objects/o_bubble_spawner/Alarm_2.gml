@@ -4,9 +4,8 @@
 /// @DnDArgument : "xpos" "4250"
 /// @DnDArgument : "ypos" "900"
 /// @DnDArgument : "objectid" "o_big_bubble"
-/// @DnDArgument : "layer" ""Bubbles""
 /// @DnDSaveInfo : "objectid" "o_big_bubble"
-instance_create_layer(4250, 900, "Bubbles", o_big_bubble);
+instance_create_layer(4250, 900, "Instances", o_big_bubble);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
