@@ -23,11 +23,11 @@ if(l71007448_0)
 	speed = spd;
 }
 
-/// @DnDAction : YoYo Games.Movement.Set_Gravity_Direction
+/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 /// @DnDVersion : 1
-/// @DnDHash : 222B25F6
-/// @DnDArgument : "direction" "direction"
-gravity_direction = direction;
+/// @DnDHash : 61C034BB
+/// @DnDArgument : "angle" "-direction"
+image_angle = -direction;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
