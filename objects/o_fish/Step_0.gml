@@ -26,8 +26,8 @@ if(l71007448_0)
 /// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 /// @DnDVersion : 1
 /// @DnDHash : 61C034BB
-/// @DnDArgument : "angle" "-direction"
-image_angle = -direction;
+/// @DnDArgument : "angle" "direction"
+image_angle = direction;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
