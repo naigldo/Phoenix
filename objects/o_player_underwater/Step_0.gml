@@ -73,17 +73,3 @@ if place_meeting(x,y+vsp, o_room1_collider) {
 }
 
 y = y + vsp;
-
-/// @DnDAction : YoYo Games.Common.If_Variable
-/// @DnDVersion : 1
-/// @DnDHash : 513C5C0E
-/// @DnDArgument : "var" "hp"
-/// @DnDArgument : "op" "3"
-if(hp <= 0)
-{
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-	/// @DnDVersion : 1
-	/// @DnDHash : 33F9BDB1
-	/// @DnDParent : 513C5C0E
-	instance_destroy();
-}
