@@ -1,0 +1,34 @@
+Bonjour Fabien !
+
+Nous t'écrivons ce texte puisque notre jeu n'est pas fini mais nous souhaitions quand même expliquer le gameplay.
+
+Le joueur commence en étant une larce d'éphémère. Il commence au niveau 0. Le niveau 0 n'est pas très compliqué.
+Il sert de monde "découverte" au joueur. Les monstres qu'il combat ne sont pas vraiment méchants pour ce niveau puisque la larve est un bébé.
+
+En arrivant sur la fin du niveau 0, la larve trouve une main squelette qui sort de terre et qui tient un parchemin.
+En s'avançant sur la main, une pop-up s'ouvre et le joueur peut découvrir ce texte :
+
+    "Vous incarnez Luís un jeune éphémère prêt à braver tous les dangers pour trouver une plume de phoenix et briser le sortilège pour vivre éternellement.
+     À travers “La plume du phoenix” vous grandirez avec lui à travers des mondes poétiques et mystérieux.
+     Vous devrez explorer les niveaux tous plus merveilleux les uns que les autres, combattre les ennemis sur votre chemin et obtenir l’ultime récompense : l’éternité."
+
+En appuyant sur "entrée", la pop-up se ferme et le joueur peut se diriger vers la lumière.
+
+En arrivant sur la lumière, la room change pour laisser place au niveau 1. C'est un niveau marécageux dans lequel Luís est désormais jeune éphémère.
+Cette fois-ci les monstres qu'il va combattre seront méchants et pourront le faire mourir.
+Dans ce niveau Luís trouve une rapière pour se battre et rencontrera des champignons vénéneux, des grenouilles venimeuses et, à la fin, une statue qui s'anime
+lorsque Luís s'approche. Il lui faudra vaincre cette statue pour accéder à la porte derrière elle et accéder au monde 2.
+
+Luís traversera 24 niveaux (24 heures étant la durée de vie d'un éphémère), tous plus incroyables et magiques les uns que les autres.
+Au fur et à mesure des niveaux Luís vieillit, de larve il passe à jeune éphémère, puis à jeune adulte, adulte et enfin vielliard.
+
+En tant que larve, Luís ne peut pas se battre, en tant que jeune éphémère, il se bat grâce à la rapière qu'il trouve au niveau 1.
+En tant qu'adulte il se bat avec ses filaments qui se durcicent (voir une photo d'éphémère).
+Puis enfin, en tant que vieillard avec un bout de bois lui servant aussi de canne.
+
+Le gameplay s'inspire d'Hollow Knights, les décors et couleurs de Gris.
+Si tu le souhaite, tu retrouveras tous nos visuels sur Teams (équpie : Game Jam - Saving Phoenix).
+
+Arrivé au niveau 24, qui se trouve dans les airs, Luís affronte le grand sorcier qui a lancé le sortilège sur le peuple des éphémères il y a des années de cela.
+Lorsque qu'il vainc le sorcier, Luís libère un Phoenix que le sorcier gardait prisonier, en sortant de sa cage, le Phoenix offre gracieusement à Luís une de ses
+plumes et avec elle la promesse d'éternité.
