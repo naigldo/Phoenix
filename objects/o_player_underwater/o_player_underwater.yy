@@ -28,6 +28,7 @@
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_player_underwater","path":"objects/o_player_underwater/o_player_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_player_underwater","path":"objects/o_player_underwater/o_player_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_fish","path":"objects/o_fish/o_fish.yy",},"parent":{"name":"o_player_underwater","path":"objects/o_player_underwater/o_player_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_level1_fish","path":"objects/o_level1_fish/o_level1_fish.yy",},"parent":{"name":"o_player_underwater","path":"objects/o_player_underwater/o_player_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
