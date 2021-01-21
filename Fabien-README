@@ -32,3 +32,6 @@ Si tu le souhaite, tu retrouveras tous nos visuels sur Teams (équpie : Game Jam
 Arrivé au niveau 24, qui se trouve dans les airs, Luís affronte le grand sorcier qui a lancé le sortilège sur le peuple des éphémères il y a des années de cela.
 Lorsque qu'il vainc le sorcier, Luís libère un Phoenix que le sorcier gardait prisonier, en sortant de sa cage, le Phoenix offre gracieusement à Luís une de ses
 plumes et avec elle la promesse d'éternité.
+
+PS : Il manque le fait que le personnage saute puisque le niveau 0 est dans l'eau. Nous n'avons pas pu faire le niveau 1 dans lequel Luís sort de l'eau et peut sauter
+par manque de visuel. Cela dit, tu peux voir dans l'objet "o_player" dans gamemaker que nous pouvons faire sauter notre personnage.
