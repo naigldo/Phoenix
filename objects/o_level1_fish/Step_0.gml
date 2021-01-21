@@ -36,9 +36,3 @@ if(hp <= 0)
 	/// @DnDParent : 03458EEC
 	instance_destroy();
 }
-
-/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
-/// @DnDVersion : 1
-/// @DnDHash : 61C034BB
-/// @DnDArgument : "angle" "direction"
-image_angle = direction;

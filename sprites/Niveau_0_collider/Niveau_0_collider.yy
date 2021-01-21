@@ -26,6 +26,8 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"4019dbe4-cae4-4e12-a441-87ac324b4165","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"4019dbe4-cae4-4e12-a441-87ac324b4165","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"LayerId":{"name":"5ee47f1b-dd30-4dcc-9c29-d8c716c6f840","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"4019dbe4-cae4-4e12-a441-87ac324b4165","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"LayerId":{"name":"8f3ca595-c22f-4a1d-a548-b1bfec6c827d","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"4019dbe4-cae4-4e12-a441-87ac324b4165","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"LayerId":{"name":"2419f83b-6111-4456-b296-1a4c41309cb9","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Niveau_0_collider","path":"sprites/Niveau_0_collider/Niveau_0_collider.yy",},"resourceVersion":"1.0","name":"4019dbe4-cae4-4e12-a441-87ac324b4165","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -65,7 +67,8 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 2","resourceVersion":"1.0","name":"5ee47f1b-dd30-4dcc-9c29-d8c716c6f840","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":false,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 2","resourceVersion":"1.0","name":"5ee47f1b-dd30-4dcc-9c29-d8c716c6f840","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"2419f83b-6111-4456-b296-1a4c41309cb9","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "environment",

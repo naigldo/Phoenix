@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_crow",
-    "path": "sprites/s_crow/s_crow.yy",
+    "name": "s_crevette",
+    "path": "sprites/s_crevette/s_crevette.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_level1_fish","path":"objects/o_level1_fish/o_level1_fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player_underwater","path":"objects/o_player_underwater/o_player_underwater.yy",},"parent":{"name":"o_level1_fish","path":"objects/o_level1_fish/o_level1_fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_level1_fish","path":"objects/o_level1_fish/o_level1_fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

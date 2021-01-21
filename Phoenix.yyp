@@ -4,6 +4,7 @@
     {"id":{"name":"o_plant_8","path":"objects/o_plant_8/o_plant_8.yy",},"order":14,},
     {"id":{"name":"o_little_bubble","path":"objects/o_little_bubble/o_little_bubble.yy",},"order":13,},
     {"id":{"name":"o_sun","path":"objects/o_sun/o_sun.yy",},"order":16,},
+    {"id":{"name":"s_crevette","path":"sprites/s_crevette/s_crevette.yy",},"order":2,},
     {"id":{"name":"larve_idle","path":"sprites/larve_idle/larve_idle.yy",},"order":13,},
     {"id":{"name":"big_bubble","path":"sprites/big_bubble/big_bubble.yy",},"order":6,},
     {"id":{"name":"o_tree_2","path":"objects/o_tree_2/o_tree_2.yy",},"order":17,},
